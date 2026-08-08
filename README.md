@@ -32,6 +32,14 @@ I'm a software engineering student building projects that combine backend develo
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
  
 ---
+
+
+<!--
+### GitHub Stats
+![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=brikiyahya&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brikiyahya&layout=compact&theme=default)
+-->
+
  
 ### Projects
  
