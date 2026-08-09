@@ -7,7 +7,7 @@ I'm a software engineering student building projects that combine backend develo
 - 🔭 Exploring computer vision through a personal project on real-time object detection using YOLO and OpenCV
 - 💼 Completed an internship at **Orange Tunisie**, building an infrastructure monitoring platform with automated incident management and AI-powered remediation suggestions
 - 🌱 Exploring machine learning, computer vision, and data-driven systems
-- 📫 Reach me on [LinkedIn](your-linkedin-url-here)
+- 📫 Reach me on [LinkedIn](www.linkedin.com/in/yahya-briki)
 ---
  
 ### Languages and Tools
