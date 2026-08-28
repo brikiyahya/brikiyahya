@@ -44,6 +44,6 @@ I'm a software engineering student building projects that combine backend develo
 ### Projects
  
 - **eCMDB**: infrastructure monitoring platform with automated incident management and AI-powered remediation suggestions, built during my internship (private repo)
-### Currently exploring
+### Currently exploring .
  
-- **Computer vision**: experimenting with YOLO and OpenCV to learn real-time object detection
+- **Computer vision**: experimenting with YOLO and OpenCV to learn real-time object detection .
